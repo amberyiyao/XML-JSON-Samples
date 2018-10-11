@@ -1,0 +1,6 @@
+model price colour
+7 500.00 red
+7plus 600.00 blue
+6plus 400.00 black
+6 300.00 white
+

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<inventory>
+    <iphone model="7">
+        <colour>Red</colour>
+        <price>500.00</price>
+    </iphone>
+    <iphone model="7Plus">
+        <colour>Red</colour>
+        <price>600.00</price>
+    </iphone>
+    <iphone model="6Plus">
+        <colour>Black</colour>
+        <price>400.00</price>
+    </iphone>
+    <iphone model="6">
+        <colour>White</colour>
+        <price>300.00</price>
+    </iphone>
+</inventory>
+
+
+
+

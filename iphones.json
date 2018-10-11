@@ -1,0 +1,22 @@
+{
+    "inventory": {
+        "iphone": [{
+            "model": "7",
+            "colour": "Red",
+            "price": 500.0
+        }, {
+            "model": "7Plus",
+            "colour": "Blue",
+            "price": 600.0
+        }, {
+            "model": "6Plus",
+            "colour": "Black",
+            "price": 400.0
+        }, {
+            "model": "6",
+            "colour": "White",
+            "price": 300.0
+        }]
+    }
+}
+
